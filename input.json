@@ -1,0 +1,11 @@
+{
+  "searchUrl": "https://www.subito.it/annunci-lombardia/vendita/auto/fiat/panda/",
+  "maxResults": 10,
+  "enrichDetails": false,
+  "proxyConfiguration": {
+    "useApifyProxy": true,
+    "apifyProxyGroups": [
+      "RESIDENTIAL"
+    ]
+  }
+}

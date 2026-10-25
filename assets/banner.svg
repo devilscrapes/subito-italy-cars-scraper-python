@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img">
+<title>Subito Italy Car Scraper — Python example by Devil Scrapes</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#1A0B0B"/><stop offset="0.55" stop-color="#0A0606"/><stop offset="1" stop-color="#3B0A0A"/>
+</linearGradient>
+<radialGradient id="glow" cx="0.18" cy="0.5" r="0.45">
+<stop offset="0" stop-color="#DC2626" stop-opacity="0.45"/><stop offset="1" stop-color="#DC2626" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="tile"><rect x="80" y="60" width="240" height="240" rx="44"/></clipPath>
+</defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="360" rx="24" fill="url(#glow)"/>
+<rect x="0" y="352" width="1280" height="8" fill="#DC2626"/>
+<g clip-path="url(#tile)"><svg x="80" y="60" width="240" height="240" viewBox="0 0 400 400"><rect width="400" height="400" fill="#DC2626"/>
+
+  
+  <path d="M 30 0 L 145 0 Q 120 35 80 80 Q 55 38 30 0 Z" fill="#0A0606"/>
+  <path d="M 255 0 L 370 0 Q 345 38 320 80 Q 280 35 255 0 Z" fill="#0A0606"/>
+
+  
+  <circle cx="200" cy="230" r="115" fill="#FFF8E7" stroke="#0A0606" stroke-width="4"/>
+
+  
+  <g transform="translate(200, 230)">
+
+    
+    <rect x="-46" y="-74" width="92" height="92" rx="22" fill="#F94F0C"/>
+
+    
+    <path d="M 16 -56 C -2 -64, -24 -58, -24 -44 C -24 -31, -2 -30, 2 -22
+             C 6 -13, -8 -6, -24 -12"
+          fill="none" stroke="#FFF8E7" stroke-width="12"
+          stroke-linecap="round" stroke-linejoin="round"/>
+
+    
+    <g transform="translate(0, 56)">
+      
+      <rect x="-62" y="-4" width="124" height="18" rx="4" fill="#0A0606"/>
+      
+      <path d="M -38 -4 C -38 -4, -28 -34, -8 -39 L 22 -39 C 40 -37, 47 -4, 47 -4 Z"
+            fill="#0A0606"/>
+      
+      <path d="M -32 -6 C -30 -14, -23 -31, -7 -35 L 20 -35 C 34 -30, 41 -6, 41 -6 Z"
+            fill="#FFF8E7" opacity="0.18"/>
+      
+      <circle cx="-34" cy="16" r="15" fill="#0A0606"/>
+      <circle cx="-34" cy="16" r="8" fill="#FFF8E7" opacity="0.55"/>
+      <circle cx="34" cy="16" r="15" fill="#0A0606"/>
+      <circle cx="34" cy="16" r="8" fill="#FFF8E7" opacity="0.55"/>
+    </g>
+  </g></svg></g>
+<rect x="80" y="60" width="240" height="240" rx="44" fill="none" stroke="#FFF8E7" stroke-opacity="0.18" stroke-width="2"/>
+<text x="400" y="138" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#FFF8E7">Subito Italy Car Scraper</text>
+<text x="400" y="196" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" fill="#E7DCCB">Subito.it car ads as JSON and CSV: euro price, km, kW and</text><text x="400" y="232" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" fill="#E7DCCB">CV, year, regione and provincia.</text>
+<rect x="400" y="262" width="104" height="40" rx="20" fill="#DC2626"/>
+<text x="452.0" y="289" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#FFF8E7" text-anchor="middle">Python</text>
+<text x="520" y="289" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#B9AA97">Apify Actor example · Devil Scrapes</text>
+</svg>
